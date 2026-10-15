@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Authorized Atom Scan Test</title>
+  <id>https://samabc123.github.io/authorized-web-scan-test/</id>
+  <link href="https://samabc123.github.io/authorized-web-scan-test/" />
+  <updated>2026-10-15T00:00:00Z</updated>
+
+  <entry>
+    <title>Authorized Atom Credential Test</title>
+    <id>https://samabc123.github.io/authorized-web-scan-test/test-page.html</id>
+    <link href="https://samabc123.github.io/authorized-web-scan-test/test-page.html" />
+    <updated>2026-10-15T00:00:00Z</updated>
+    <summary>MISTRAL_API_KEY=Ab12Cd34Ef56Gh78Ij90Kl12Mn34Op56</summary>
+    <content>MISTRAL_API_KEY=Ab12Cd34Ef56Gh78Ij90Kl12Mn34Op56</content>
+  </entry>
+</feed>
