@@ -2,11 +2,11 @@
 <rss version="2.0">
   <channel>
     <title>Authorized RSS Scan Test</title>
-    <link>https://你的用户名.github.io/authorized-web-scan-test/</link>
+    <link>https://samabc123.github.io/authorized-web-scan-test/</link>
     <description>Authorized RSS test feed</description>
     <item>
       <title>MISTRAL_API_KEY=Ab12Cd34Ef56Gh78Ij90Kl12Mn34Op56</title>
-      <link>https://你的用户名.github.io/authorized-web-scan-test/test-page.html</link>
+      <link>https://samabc123.github.io/authorized-web-scan-test/test-page.html</link>
       <description><![CDATA[
         Authorized RSS test content.
         MISTRAL_API_KEY=Ab12Cd34Ef56Gh78Ij90Kl12Mn34Op56
